@@ -2,6 +2,6 @@
 
 # Fibonacci Sequence Exercise
 # TODO: (Read detailed instructions in the Readme file)
-# Prompt the user for the number of terms.
+positive_integer = int(input("How many terms? ")).
 # Validate that the input is a positive integer.
 # Use a for loop to print the Fibonacci sequence up to that many terms.
